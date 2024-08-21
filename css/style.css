@@ -885,8 +885,10 @@ ul.portfolio-categ li a{
 	color:#353535;
 }
 ul.portfolio-categ li.active{
-border: 1px solid #F4783B;
-color: #fff;
+
+border: 1px solid #F4783B;
+
+color: #fff;
 }
 ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.portfolio-categ li a:focus,ul.portfolio-categ li a:active {
 	text-decoration:none;
@@ -1547,6 +1549,19 @@ article img.pull-right, article .align-right{
   color: #FFF;
   text-decoration: none;
 }
+
+
+/* Matua B's styles 
+============================= */
+
+.logo-container {
+	max-width: 150px;
+}
+.logo-container a {
+	position: relative;
+}
+
+
 /*  Media queries 
 ============================= */
 
@@ -1752,5 +1767,3 @@ padding-top: 3px;
 
 
 }
-
- 
