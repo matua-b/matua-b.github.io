@@ -1559,6 +1559,9 @@ article img.pull-right, article .align-right{
 .logo-container a {
 	position: relative;
 }
+.logo-container a img {
+	max-width: 100%;
+}
 
 
 /*  Media queries 
